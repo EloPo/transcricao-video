@@ -91,7 +91,3 @@ Se você quiser contribuir com o projeto, fique à vontade! Crie um fork do repo
 
 ### **Licença**
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Esse `README.md` cobre o processo de instalação e uso para o projeto local de transcrição de vídeo. Se precisar de mais informações ou ajustes, é só me avisar! 😊
